@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9C7F37AD-14C8-4E36-858E-1DC40A3768F3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>17E3B2B6801728378FCF840957C480A2BFBFD82A</key>
+		<string>https://github.com/henrievk/StudentPenger.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>StudentPenger.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>17E3B2B6801728378FCF840957C480A2BFBFD82A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/henrievk/StudentPenger.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>17E3B2B6801728378FCF840957C480A2BFBFD82A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>17E3B2B6801728378FCF840957C480A2BFBFD82A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>StudentPenger</string>
+		</dict>
+	</array>
+</dict>
+</plist>

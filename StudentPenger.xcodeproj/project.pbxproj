@@ -14,6 +14,7 @@
 		0A1CD2121B6A94F300EAC8AE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A1CD2111B6A94F300EAC8AE /* Images.xcassets */; };
 		0A1CD2151B6A94F300EAC8AE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0A1CD2131B6A94F300EAC8AE /* LaunchScreen.xib */; };
 		0A1CD2211B6A94F300EAC8AE /* StudentPengerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A1CD2201B6A94F300EAC8AE /* StudentPengerTests.m */; };
+		0A1CD22F1B6AA45900EAC8AE /* SaldooversiktViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A1CD22E1B6AA45900EAC8AE /* SaldooversiktViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		0A1CD21A1B6A94F300EAC8AE /* StudentPengerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StudentPengerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A1CD21F1B6A94F300EAC8AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0A1CD2201B6A94F300EAC8AE /* StudentPengerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StudentPengerTests.m; sourceTree = "<group>"; };
+		0A1CD22D1B6AA45900EAC8AE /* SaldooversiktViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SaldooversiktViewController.h; sourceTree = "<group>"; };
+		0A1CD22E1B6AA45900EAC8AE /* SaldooversiktViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SaldooversiktViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +92,8 @@
 				0A1CD2111B6A94F300EAC8AE /* Images.xcassets */,
 				0A1CD2131B6A94F300EAC8AE /* LaunchScreen.xib */,
 				0A1CD2041B6A94F300EAC8AE /* Supporting Files */,
+				0A1CD22D1B6AA45900EAC8AE /* SaldooversiktViewController.h */,
+				0A1CD22E1B6AA45900EAC8AE /* SaldooversiktViewController.m */,
 			);
 			path = StudentPenger;
 			sourceTree = "<group>";
@@ -220,6 +225,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0A1CD20D1B6A94F300EAC8AE /* ViewController.m in Sources */,
+				0A1CD22F1B6AA45900EAC8AE /* SaldooversiktViewController.m in Sources */,
 				0A1CD20A1B6A94F300EAC8AE /* AppDelegate.m in Sources */,
 				0A1CD2071B6A94F300EAC8AE /* main.m in Sources */,
 			);
@@ -348,6 +354,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = StudentPenger/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -358,6 +365,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = StudentPenger/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
